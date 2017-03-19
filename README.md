@@ -1,0 +1,2 @@
+# projekt
+Zespołowy projekt informatyczny
